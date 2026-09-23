@@ -60,7 +60,7 @@ Only the centre has clear chunky pixel edges. Everything else is mist, bloom and
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/nevertoday/xxd-panel-235 --skill xxd-panel-235
+npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-235 --skill xxd-panel-235
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-235`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.
