@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-235
-description: "Create XXD Panel 235 raster artwork: a faithful photograph paired with an ethereal pastel-mint culinary pixel badge: one chunky warm pixel subject on a pale plate, mint lace, a soft white halo and dreamy bloom fading into near-white. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-235 or asks for this 薄荷像素料理 style."
+description: "XXD Panel 235｜Mint Pixel Cooking Badge: compresses a photo's subject into one cute, warm-coloured pixel item with crisp chunky pixel edges — even non-food subjects become a sprite-like dish with 2000s cooking-game nostalgia and Japanese cute-stationery charm — set on a pale ceramic plate at the centre of a badge-like composition, ringed by a soft white glow, a mint-green lace doily, tiny flowers and dotted rings, with faint kitchen utensils fading almost entirely into white. Only the centre is sharp; everything else is mist, gentle bloom and a nearly overexposed mint, ivory and cream ground, with bright orange, coral, gold or pink reserved for the centre, and a few tiny soft labels. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-235 or asks for pastel mint pixel art, cooking-game sprites or kawaii pixel food badges from a photo."
 ---
 
 # XXD Panel 235

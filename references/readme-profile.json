@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 235｜Mint Pixel Cooking Badge: compresses a photo's subject into one cute, warm-coloured pixel item with crisp chunky pixel edges — even non-food subjects become a sprite-like dish with 2000s cooking-game nostalgia and Japanese cute-stationery charm — set on a pale ceramic plate at the centre of a badge-like composition, ringed by a soft white glow, a mint-green lace doily, tiny flowers and dotted rings, with faint kitchen utensils fading almost entirely into white. Only the centre is sharp; everything else is mist, gentle bloom and a nearly overexposed mint, ivory and cream ground, with bright orange, coral, gold or pink reserved for the centre, and a few tiny soft labels. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-235 or asks for pastel mint pixel art, cooking-game sprites or kawaii pixel food badges from a photo.",
+  "short_description": "薄荷像素料理：把照片收成薄荷梦境里一枚中心清楚、四周淡进白色的像素料理徽章",
+  "zh-CN": {
+    "name": "薄荷像素料理",
+    "tagline": "把照片收成一枚薄荷色梦境里的像素料理徽章：中心清楚，四周淡进白色。",
+    "look": "照片主体被压成唯一的中心像素符号：块状像素边缘利落清楚，颜色偏暖、饱和度较高；即使原物不是食物，也会变成像 2000 年代料理游戏里那样可爱的像素小物。它放在一只浅色陶瓷盘正中，外圈是柔白圆形光晕、薄荷绿蕾丝垫、细小花朵和点状装饰环，远处极淡的厨具几乎褪进白色。只有中心是清楚的，其余都是雾感、轻微 bloom 和近乎过曝的薄荷绿、象牙白、奶油白底；鲜橙、珊瑚、金黄或粉色只用在中心。留白里有几个像可爱文具标注的小字。",
+    "traits": ["薄荷绿", "块状像素", "中心徽章", "陶瓷盘", "柔白光晕", "料理游戏怀旧"],
+    "good": [
+      "食物和饮品：一块蛋糕、一碗拉面、一杯奶茶、一盘水果",
+      "可以变成可爱小物的单个对象：一只小猫、一只鞋、一个玩偶",
+      "想做可爱文具、贴纸、社交卡片或轻游戏风视觉的照片"
+    ],
+    "poor": [
+      "需要保留整个场景或多个主体的照片：合影、街景、风景全景",
+      "暗调、夜景或气氛沉重的照片，画面会变成明亮的薄荷甜梦",
+      "想要高清写实、深色背景或复杂信息排版的需求"
+    ]
+  },
+  "en": {
+    "name": "Mint Pixel Cooking Badge",
+    "tagline": "Turns a photo into a pixel cooking badge in a mint-coloured dream: a crisp centre fading into white.",
+    "look": "Your subject is compressed into a single central pixel item with crisp, chunky pixel edges in warm, fairly saturated colours; even if it is not food, it becomes a cute pixel object like something from a 2000s cooking game. It sits in the middle of a pale ceramic plate, ringed by a soft white glow, a mint-green lace doily, tiny flowers and dotted rings, while faint kitchen utensils in the distance almost vanish into white. Only the centre is sharp; everything else is mist, gentle bloom and a nearly overexposed mint, ivory and cream ground, with bright orange, coral, gold or pink kept for the centre alone. A few tiny words sit in the white space like labels on cute stationery.",
+    "traits": ["Mint green", "Chunky pixels", "Central badge", "Ceramic plate", "Soft white glow", "Cooking-game nostalgia"],
+    "good": [
+      "Food and drinks: a slice of cake, a bowl of ramen, a milk tea, a plate of fruit",
+      "Single objects that can turn into something cute: a kitten, a shoe, a plush toy",
+      "Photos you want as cute stationery, stickers, social cards or light game-style visuals"
+    ],
+    "poor": [
+      "Photos where the whole scene or several subjects must stay: group shots, street views, wide landscapes",
+      "Dark, night-time or heavy-mood photos, which become a bright mint daydream",
+      "Requests for high-definition realism, dark backgrounds or information-heavy layouts"
+    ]
+  },
+  "ja": {
+    "name": "ミントのピクセル料理",
+    "tagline": "写真を、ミント色の夢の中のピクセル料理バッジにします。中心はくっきり、まわりは白に溶けます。",
+    "look": "主役を中央のピクセル記号ひとつに圧縮します。ブロック状のピクセルの縁はくっきりしていて、色は暖かめでやや鮮やか。食べ物でなくても、2000年代の料理ゲームに出てくるようなかわいいピクセルの小物になります。それは淡い色の陶器の皿の真ん中に置かれ、外側を柔らかな白い円形の光、ミントグリーンのレースのドイリー、小さな花、点の飾りの輪が囲み、遠くのごく淡い調理道具はほとんど白に消えています。はっきりしているのは中心だけで、ほかは霧のような柔らかさ、軽いブルーム、露出オーバー気味のミント、象牙色、クリーム色の地。鮮やかなオレンジ、コーラル、金色、ピンクは中心にだけ使います。余白にはかわいい文具の表示のような小さな文字が少し入ります。",
+    "traits": ["ミントグリーン", "ブロック状のピクセル", "中央のバッジ", "陶器の皿", "柔らかな白い光", "料理ゲームの懐かしさ"],
+    "good": [
+      "食べ物や飲み物：ケーキ、ラーメン、ミルクティー、果物の盛り合わせ",
+      "かわいい小物にできる一つの対象：子猫、靴、ぬいぐるみ",
+      "かわいい文具、シール、SNSカード、軽いゲーム風ビジュアルにしたい写真"
+    ],
+    "poor": [
+      "場面全体や複数の主役を残したい写真：集合写真、街並み、風景の全景",
+      "暗い、夜の、重い雰囲気の写真（明るいミントの甘い夢に変わります）",
+      "高精細な写実、暗い背景、情報の多いレイアウトを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "민트 픽셀 요리",
+    "tagline": "사진을 민트빛 꿈속의 픽셀 요리 배지로 담습니다. 중심은 선명하고 주변은 흰색으로 스며듭니다.",
+    "look": "주인공을 가운데 하나뿐인 픽셀 기호로 압축합니다. 블록 픽셀 가장자리는 또렷하고 색은 따뜻하며 채도가 조금 높습니다. 음식이 아니더라도 2000년대 요리 게임에 나올 법한 귀여운 픽셀 소품이 됩니다. 이것은 연한 도자기 접시 한가운데 놓이고, 바깥은 부드러운 흰 원형 빛무리, 민트색 레이스 받침, 작은 꽃, 점 장식 고리가 감싸며, 멀리 있는 아주 옅은 주방 도구는 거의 흰색에 묻힙니다. 선명한 것은 중심뿐이고 나머지는 안개 같은 부드러움, 은은한 블룸, 거의 과노출된 민트, 상아색, 크림색 바탕입니다. 선명한 주황, 산호색, 금빛, 분홍은 중심에만 씁니다. 여백에는 귀여운 문구 라벨 같은 작은 글자가 조금 들어갑니다.",
+    "traits": ["민트색", "블록 픽셀", "중앙 배지", "도자기 접시", "부드러운 흰 빛무리", "요리 게임 향수"],
+    "good": [
+      "음식과 음료: 케이크 한 조각, 라멘 한 그릇, 밀크티, 과일 한 접시",
+      "귀여운 소품이 될 수 있는 하나의 대상: 아기 고양이, 신발, 인형",
+      "귀여운 문구, 스티커, SNS 카드, 가벼운 게임풍 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "장면 전체나 여러 주인공을 남겨야 하는 사진: 단체 사진, 거리 풍경, 풍경 전경",
+      "어둡거나 밤이거나 분위기가 무거운 사진(밝은 민트빛 단꿈으로 바뀝니다)",
+      "고해상도 사실감, 어두운 배경, 정보가 많은 레이아웃을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "شارة طبخ بكسلية بلون النعناع",
+    "tagline": "يحوّل الصورة إلى شارة طبخ بكسلية في حلم بلون النعناع: مركز واضح يتلاشى في الأبيض.",
+    "look": "يُضغط العنصر الرئيسي في عنصر بكسلي واحد في المركز، بحواف بكسلية كتلية حادة وألوان دافئة مشبعة نسبياً؛ وحتى إن لم يكن طعاماً يصبح شيئاً بكسلياً لطيفاً كأنه من ألعاب الطبخ في العقد الأول من الألفية. يوضع في منتصف صحن خزفي فاتح، تحيط به هالة بيضاء ناعمة ومفرش دانتيل بلون النعناع وزهور صغيرة وحلقات منقطة، بينما تكاد أدوات مطبخ باهتة في البعيد تذوب في الأبيض. المركز وحده واضح، وكل ما عداه ضباب وتوهج خفيف وخلفية شبه مفرطة الإضاءة بلون النعناع والعاجي والكريمي، ولا يُستخدم البرتقالي الزاهي والمرجاني والذهبي والوردي إلا في المركز. وتظهر في الفراغ كلمات قليلة صغيرة جداً كأنها ملصقات على قرطاسية لطيفة.",
+    "traits": ["أخضر نعناعي", "بكسلات كتلية", "شارة مركزية", "صحن خزفي", "هالة بيضاء ناعمة", "حنين إلى ألعاب الطبخ"],
+    "good": [
+      "أطعمة ومشروبات: قطعة كعك، وعاء رامن، شاي بالحليب، طبق فاكهة",
+      "عنصر واحد يمكن أن يتحول إلى شيء لطيف: هرّ صغير، حذاء، دمية محشوة",
+      "صور تريدها قرطاسية لطيفة أو ملصقات أو بطاقات لوسائل التواصل أو صوراً بروح الألعاب الخفيفة"
+    ],
+    "poor": [
+      "صور يجب أن يبقى فيها المشهد كله أو عدة عناصر: صور جماعية، شوارع، مناظر واسعة",
+      "صور داكنة أو ليلية أو ثقيلة المزاج، إذ تتحول إلى حلم نعناعي مشرق",
+      "طلب واقعية عالية الدقة أو خلفيات داكنة أو تصاميم مثقلة بالمعلومات"
+    ]
+  }
+}

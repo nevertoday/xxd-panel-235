@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 235"
-  short_description: "薄荷像素料理：上半保留原照，下半收成中心清楚的薄荷像素徽章"
-  default_prompt: "Use $xxd-panel-235 to transform my photograph following the complete canonical source brief."
+  short_description: "薄荷像素料理：把照片收成薄荷梦境里一枚中心清楚、四周淡进白色的像素料理徽章"
+  default_prompt: "Use $xxd-panel-235 to turn my photo into Mint Pixel Cooking Badge artwork."
